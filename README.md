@@ -1,2 +1,2 @@
 # simple-airline-booking
-This is a sample type for regular airline reservation system we see in daily basic. This system was designed using Java and GUI. The purpose of buidling this system was to make a system which is more user friendly.
+This is a sample type for regular airline reservation system we see in daily basic. This system was designed using Java and GUI. The purpose of buidling this system was to make a system which is more user friendly and saves each booking in an order in txt file. Different classes and methods were used to build this system to break the coding into small parts, which makes it easier to understand and to fix if any problem arises in future.
